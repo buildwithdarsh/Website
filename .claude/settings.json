@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"src/app/\\(marketing\\)/page.tsx\")",
+      "Bash(git merge:*)",
+      "WebFetch(domain:vicity.build.withdarsh.com)",
+      "Bash(git add:*)",
+      "Bash(du -sh /Users/alex/Dev/Personal/Darsh Gupta/AutoCareHub/portfolio/*.mov)",
+      "Bash(DEST=/Users/alex/Dev/Personal/Darsh Gupta/Website/public/images/portfolio/autocarehub)",
+      "Read(//Users/alex/Dev/Personal/Darsh Gupta/Website/$DEST/**)",
+      "Bash(du -sh \"$DEST\")"
+    ],
+    "additionalDirectories": [
+      "/Users/alex/Dev/Personal/Darsh Gupta/Website/public/images/portfolio/thesweetspot",
+      "/Users/alex/Dev/Personal/Darsh Gupta/Website/public/images/portfolio"
+    ]
+  }
+}
