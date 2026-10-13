@@ -268,6 +268,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/apogee/desktop-landing-page.png",
   },
+  {
+    slug: "pulsegrid",
+    title: "Pulsegrid",
+    tagline: "Product analytics instrument panel.",
+    description:
+      "Funnels, 12-week retention cohorts, nested AND/OR segments and a live event stream over a seeded event log. Static shell + 13 streamed widgets (Cache Components), URL-held date range with compare, parallel-route widget drawer, ⌘K + 25 shortcuts.",
+    url: "https://pulsegrid.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "Cache Components", "Tailwind 4"],
+    category: "fullstack",
+    image: "/images/portfolio/pulsegrid/desktop-landing-page.png",
+  },
 
   // OSS
   {
