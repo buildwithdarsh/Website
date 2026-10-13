@@ -263,7 +263,7 @@ export const PROJECTS: Project[] = [
     tagline: "Commercial spaceflight booking.",
     description:
       "Suborbital, orbital and lunar missions behind a mission-control UI. 18 missions, 6-step booking with an ARIA seat map, static shell + streamed inventory (Cache Components), View Transitions.",
-    url: "https://github.com/buildwithdarsh/Apogee",
+    url: "https://apogee.work.withdarsh.com",
     stack: ["Next.js 16", "React 19", "Cache Components", "Tailwind 4"],
     category: "fullstack",
     image: "/images/portfolio/apogee/desktop-landing-page.png",
