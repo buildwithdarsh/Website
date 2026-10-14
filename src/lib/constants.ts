@@ -290,6 +290,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/canopy/desktop-landing-page.png",
   },
+  {
+    slug: "crate",
+    title: "Crate",
+    tagline: "Vinyl marketplace for collectors.",
+    description:
+      "Multi-seller record shop with Goldmine grades for record and sleeve, an intercepted quick-look with sleeve-morph view transitions, faceted browse, per-seller shipping, price history by grade and Crate Dig: a seeded, swipeable shuffle. 60 generated sleeves.",
+    url: "https://crate.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "Cache Components", "View Transitions"],
+    category: "fullstack",
+    image: "/images/portfolio/crate/desktop-landing-page.png",
+  },
 
   // OSS
   {
