@@ -301,6 +301,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/crate/desktop-landing-page.png",
   },
+  {
+    slug: "heartbeat",
+    title: "Heartbeat",
+    tagline: "Uptime monitoring + public status pages.",
+    description:
+      "24 simulated checks from 5 regions with live polling, incident update trails, a postmortem editor, on-call rotations and a status page builder. Public pages are classic ISR, readable without JavaScript, and refresh on every update. Vim chords and a : command bar.",
+    url: "https://heartbeat.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "ISR", "Tailwind 4"],
+    category: "fullstack",
+    image: "/images/portfolio/heartbeat/desktop-landing-page.png",
+  },
 
   // OSS
   {
