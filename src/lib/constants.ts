@@ -312,6 +312,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/heartbeat/desktop-landing-page.png",
   },
+  {
+    slug: "monolith",
+    title: "Monolith",
+    tagline: "Brutalist architecture studio site.",
+    description:
+      "16 case studies with sticky facts sheets, MDX narratives and 75 plans, sections and elevations you can zoom 1–8× with a true scale bar, in an intercepted lightbox. Press G for the 12-column grid, B for blueprint mode. Every render comes from an in-repo ray tracer.",
+    url: "https://monolith.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "Cache Components", "MDX"],
+    category: "fullstack",
+    image: "/images/portfolio/monolith/desktop-landing-page.png",
+  },
 
   // OSS
   {
