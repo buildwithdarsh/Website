@@ -279,6 +279,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/pulsegrid/desktop-landing-page.png",
   },
+  {
+    slug: "canopy",
+    title: "Canopy",
+    tagline: "Carbon footprint journal + offset marketplace.",
+    description:
+      "Measure, reduce, then compensate. A four-step calculator built on Server Actions that works with JavaScript off, a tree-ring chart of 24 months, optimistic check-ins, 20 removal/avoidance projects and HMAC-signed certificates with next/og share images.",
+    url: "https://canopy.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "Server Actions", "Tailwind 4"],
+    category: "fullstack",
+    image: "/images/portfolio/canopy/desktop-landing-page.png",
+  },
 
   // OSS
   {
