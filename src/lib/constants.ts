@@ -323,6 +323,17 @@ export const PROJECTS: Project[] = [
     category: "fullstack",
     image: "/images/portfolio/monolith/desktop-landing-page.png",
   },
+  {
+    slug: "the-margin",
+    title: "The Margin",
+    tagline: "Long-form magazine with notes in the margin.",
+    description:
+      "36 original long reads set like a modern broadsheet, sidenotes beside the sentence they annotate, and a meter you can see: 3 free articles a month, the body streamed as a Cache Components hole. Paper/Sepia/Night, highlight-to-quote cards, RSS. Every engraving is ray-traced in the repo.",
+    url: "https://the-margin.work.withdarsh.com",
+    stack: ["Next.js 16", "React 19", "Cache Components", "next/og"],
+    category: "fullstack",
+    image: "/images/portfolio/the-margin/desktop-landing-page.png",
+  },
 
   // OSS
   {
